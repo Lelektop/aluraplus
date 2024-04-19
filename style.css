@@ -18,3 +18,14 @@
     padding:24px 0 ;
     font-size: 24px;
 }
+.escola-imagem{
+    width: 25%;
+}
+.escola{
+    background-image: linear-gradient(rgb(175, 123, 224),rgb(133, 0, 153));
+    color: black;
+    display: flex;
+}
+.escola-conteudo{
+    width: 35%;
+}
