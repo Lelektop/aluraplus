@@ -5,6 +5,11 @@
 body{
     font-family: "Poppins", sans-serif;
 }
+footer{
+        background-color: rgb(119, 9, 245);
+        padding: 15px 0;
+        text-align: center;
+}
 .cabecalho{
     background-color: rgb(175, 123, 224);
     color: rgb(0, 0, 0);
@@ -51,4 +56,8 @@ body{
 .estudante-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20%;
+}
+.rodape-imagem{
+    width: 15px 0;
+    height: 15px 0;
 }
